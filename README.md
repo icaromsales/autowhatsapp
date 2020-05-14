@@ -1,4 +1,4 @@
-# Project Title
+# AutoWhatsapp
 
 ## Table of Contents
 
@@ -25,7 +25,10 @@ pywhatkit
 ### Installing
 
 ```
+git clone https://github.com/icaromsales/autowhatsapp.git
+cd autowhatsapp
 pip install pywhatkit
+python3 AutoWhatsapp.py
 ```
 
 ## ✍️ Authors <a name = "authors"></a>
